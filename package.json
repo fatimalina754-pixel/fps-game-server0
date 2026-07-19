@@ -1,8 +1,8 @@
 {
-  "name": "fps-game-server",
+  "name": "fps-game-server0",
   "version": "1.0.0",
   "scripts": {
-    "start": "node dist/src/index.js",
+    "start": "node dist/index.js",
     "build": "npx tsc"
   },
   "dependencies": {
